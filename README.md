@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 # 💫 About Me:
-Hello there, I am Junior Python developer.<br>I program on Django, Flask. I am also interested in neural networks. <br>Open to suggestions and opportunities.
+Hello there, I am Junior Python developer.<br><br>Open to suggestions and opportunities.
 
 
 ## 🌐 Socials:
