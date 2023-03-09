@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-My [LinkedIn](https://linkedin.com/in/andrew-karnaushenko-5606b723a).<br>
-My [Stack Overflow](https://stackoverflow.com/users/19356879).<br>
+Link to my [LinkedIn](https://linkedin.com/in/andrew-karnaushenko-5606b723a).<br>
+Link to my [Stack Overflow](https://stackoverflow.com/users/19356879).<br>
 You can see my [CV](https://alloneneon.github.io) by clicking on the link.
 
 # 💻 Tech Stack:
