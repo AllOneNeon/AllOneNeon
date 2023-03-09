@@ -1,10 +1,10 @@
 # 💫 About Me:
-💬 Hello there, I am Junior Python developer.<br>⚡ Open to suggestions and opportunities.
+💬 Hello there, I am Python developer.<br>⚡ Open to suggestions and opportunities.
 
 
 ## 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/andrew-karnaushenko-5606b723a) \n
-[Stack Overflow](https://stackoverflow.com/users/19356879) \n
+My [LinkedIn](https://linkedin.com/in/andrew-karnaushenko-5606b723a).<br>
+My [Stack Overflow](https://stackoverflow.com/users/19356879).<br>
 You can see my [CV](https://alloneneon.github.io) by clicking on the link.
 
 # 💻 Tech Stack:
